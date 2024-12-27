@@ -13,10 +13,17 @@ header {
     justify-content: center; /* Centraliza horizontalmente */
     align-items: center; /* Centraliza verticalmente */
 }
+
 .logo-container img {
     width: 100px; /* Ajusta o tamanho da logo */
     margin-right: 10px; /* Espaço entre a logo e o nome */
 }
 h1 {
     margin: 0; /* Remove a margem padrão do <h1> */
-  }
+}
+.main-container {
+    background-color: lightpink;
+}
+.food-container {
+    background-color: lightgreen;
+}
